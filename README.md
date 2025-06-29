@@ -1,29 +1,20 @@
 ## Hi there 👋
 
 <!--
-**Anshuman-Rai-1004/Anshuman-Rai-1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Anshuman-Rai-1004/Anshuman-Rai-1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">Problem detected ? I'm your solution</h1>
 
 ## 👋 About Me:
-
-- 🔭 I’m currently working on enhancing my skills in Node.js and Google Cloud.
-- 🤝 I’m looking to collaborate on Flutter app development projects.
-- 🧠 I’m looking for help with advanced Node.js concepts and Google Cloud services.
-- 🌱 I’m currently learning backend development with Node.js and cloud computing with Google Cloud.
-- 💬 Ask me about Flutter, Java, Dart, and Firebase.
-- ⚡ Fun fact: I can build cross-platform apps with Flutter and am diving into cloud solutions to make them even better!
+🔭 I’m currently working on VastraKart – A multi-vendor clothing e-commerce platform and LearningRecite – A roadmap-based learning platform for students.
+🌱 I’m currently learning advanced backend integration, CI/CD, and system design concepts.
+👯 I’m looking to collaborate on full-stack web apps, AI-integrated platforms, and open-source projects.
+🤔 I’m looking for help with optimizing performance in large-scale MERN stack applications.
+💬 Ask me about MERN Stack, Java, DSA, GitHub, tech communities, or event management.
+📲 I also handle social media strategy and content creation for college tech clubs and events—designing posts, managing reach, and boosting engagement.
+🌐 I'm an active community volunteer and Point of Contact (PoC) at GDG Prayagraj, helping with event coordination and developer outreach.
+📫 How to reach me: anshumanrai.dev@gmail.com or on LinkedIn
+😄 Pronouns: He/Him
+⚡ Fun fact: I love turning funny tech debates (like iPhone vs Android) into cartoon scripts!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/)
