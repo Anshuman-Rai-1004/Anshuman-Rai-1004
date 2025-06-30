@@ -1,20 +1,39 @@
 ## Hi there 👋
 
 <!--
-**Anshuman-Rai-1004/Anshuman-Rai-1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h1 align="center">Problem detected ? I'm your solution</h1>
+**Anshuman-Rai-1004/Anshuman-Rai-1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<h1 align="center">I don't follow trends- I push commits that create them</h1> -->
+<h1 class="typewriter" align="center"></h1>
+.typewriter::after {
+  content: "I don't follow trends — I push commits that create them";
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  animation: typing 4s steps(50, end), blink 0.75s step-end infinite;
+  border-right: 3px solid #fff;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+
 
 ## 👋 About Me:
-🔭 I’m currently working on VastraKart – A multi-vendor clothing e-commerce platform and LearningRecite – A roadmap-based learning platform for students.
-🌱 I’m currently learning advanced backend integration, CI/CD, and system design concepts.
-👯 I’m looking to collaborate on full-stack web apps, AI-integrated platforms, and open-source projects.
-🤔 I’m looking for help with optimizing performance in large-scale MERN stack applications.
-💬 Ask me about MERN Stack, Java, DSA, GitHub, tech communities, or event management.
-📲 I also handle social media strategy and content creation for college tech clubs and events—designing posts, managing reach, and boosting engagement.
-🌐 I'm an active community volunteer and Point of Contact (PoC) at GDG Prayagraj, helping with event coordination and developer outreach.
-📫 How to reach me: anshumanrai.dev@gmail.com or on LinkedIn
-😄 Pronouns: He/Him
-⚡ Fun fact: I love turning funny tech debates (like iPhone vs Android) into cartoon scripts!
+- 🔭 I’m currently working on VastraKart – A multi-vendor clothing e-commerce platform and LearningRecite – A roadmap-based learning platform for students.
+- 🌱 I’m currently learning advanced backend integration, CI/CD, and system design concepts.
+- 👯 I’m looking to collaborate on full-stack web apps, AI-integrated platforms, and open-source projects.
+- 🤔 I’m looking for help with optimizing performance in large-scale MERN stack applications.
+- 💬 Ask me about MERN Stack, Java, DSA, GitHub, tech communities, or event management.
+- 📲 I also handle social media strategy and content creation for college tech clubs and events—designing posts, managing reach, and boosting engagement.
+- 🌐 I'm an active community volunteer and Point of Contact (PoC) at GDG Prayagraj, helping with event coordination and developer outreach.
+- 📫 How to reach me: anshumanrai.dev@gmail.com or on LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning funny tech debates (like iPhone vs Android) into cartoon scripts!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/)
