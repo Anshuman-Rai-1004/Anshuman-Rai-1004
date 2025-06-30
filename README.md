@@ -13,7 +13,7 @@
 - 💬 Ask me about MERN Stack, Java, DSA, GitHub, tech communities, or event management.
 - 📲 I also handle social media strategy and content creation for college tech clubs and events—designing posts, managing reach, and boosting engagement.
 - 🌐 I'm an active community volunteer and Point of Contact (PoC) at GDG Prayagraj, helping with event coordination and developer outreach.
-- 📫 How to reach me: anshumanrai.dev@gmail.com or on LinkedIn
+- 📫 How to reach me: anshuman.rai.1004@gmail.com or on LinkedIn https://www.linkedin.com/in/anshuman-rai-0433032b9
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning funny tech debates (like iPhone vs Android) into cartoon scripts!
 
