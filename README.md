@@ -1,26 +1,8 @@
 ## Hi there 👋
 
 <!--
-**Anshuman-Rai-1004/Anshuman-Rai-1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-<h1 align="center">I don't follow trends- I push commits that create them</h1> -->
-<h1 class="typewriter" align="center"></h1>
-.typewriter::after {
-  content: "I don't follow trends — I push commits that create them";
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
-  animation: typing 4s steps(50, end), blink 0.75s step-end infinite;
-  border-right: 3px solid #fff;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink {
-  50% { border-color: transparent }
-}
+**Anshuman-Rai-1004/Anshuman-Rai-1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<h1 align="center">I don't follow trends- I push commits that create them</h1>
 
 
 ## 👋 About Me:
